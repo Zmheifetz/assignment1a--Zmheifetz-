@@ -1,3 +1,4 @@
+//bruh
 #include <stdio.h>
 
 int main() {
